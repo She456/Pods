@@ -1,0 +1,6 @@
+module Pods_WXR_Browser {
+  umbrella header "Pods-WXR Browser-umbrella.h"
+
+  export *
+  module * { export * }
+}
